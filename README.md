@@ -1,6 +1,11 @@
 Madhav Sale Dashboard
 This repository contains the Power BI project for the Madhav Sale Dashboard. The dashboard provides a comprehensive analysis of e-commerce sales data, offering key insights into various aspects of the business.
 
+Dashboard look like:
+<img width="1023" height="575" alt="image" src="https://github.com/user-attachments/assets/eff16dbf-212c-47f1-bf9d-5c47d0ee20c7" />
+
+
+
 Overview
 The purpose of this project is to transform raw sales data into actionable business intelligence. The dashboard visualizes sales performance across different categories, states, payment modes, and over time. It is designed to help stakeholders make data-driven decisions to improve sales and profitability.
 
